@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">Estatísticas em preparação</title>
+  <desc id="desc">O GitHub Actions substituirá este arquivo pelas estatísticas de sequência.</desc>
+  <rect width="495" height="195" rx="8" fill="transparent" stroke="#30363d" />
+  <text x="247.5" y="92" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="16">Estatísticas em preparação</text>
+  <text x="247.5" y="118" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">Execute o workflow Atualizar perfil</text>
+</svg>
