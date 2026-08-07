@@ -1,0 +1,56 @@
+name: Atualizar perfil e espelhar deployments
+
+on:
+  schedule:
+    - cron: "17,47 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Espelhar deployments da Vercel
+        env:
+          VERCEL_ACCESS_TOKEN: ${{ secrets.VERCEL_ACCESS_TOKEN }}
+          VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
+        run: node scripts/sync-vercel-deployments.mjs
+
+      - name: Gerar estatísticas de sequência
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=00000000&locale=pt_BR
+          path: assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Criar commit quando houver alteração
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/streak.svg data/vercel-deployments.json
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para registrar."
+            exit 0
+          fi
+
+          git commit \
+            --author="giovanax <200608784+giovanax@users.noreply.github.com>" \
+            -m "chore: atualizar perfil e deployments"
+          git push
