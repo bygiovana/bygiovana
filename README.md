@@ -2,7 +2,7 @@
 🎓 Information Systems Undergraduate 4/8, passionate about gym, purpose, tech education and martial arts.
 
 Full Stack Development • Cloud • Software Engineering  
-JavaScript • TypeScript • React • Node.js • Python • Java • SQL • AWS**
+JavaScript • TypeScript • React • Node.js • Python • Java • SQL • AWS
 - Native Portuguese, Advanced English.
 
 
