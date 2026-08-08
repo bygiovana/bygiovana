@@ -1,4 +1,4 @@
-`Software Engnineer` · `2+ Years of Experience`
+`Software Engnineer` • `2+ Years of Experience`
 
 🎓 Information Systems Undergraduate 4/8, passionate about gym, purpose, tech education.
 
