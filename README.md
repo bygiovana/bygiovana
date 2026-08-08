@@ -9,5 +9,5 @@
 
 Reach me at: giovanaprecioso2019@gmail.com
 
-![gon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ1eDlpbTZnejBoYmw1Y3d5MWxxZ3RoeXpscjdhaTJ5aXVmaHlmbyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8Bfu9V4SceZZS/giphy.gif)
+![gon](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHBxOGU4ZHh5cGxrNTlpejdhc2ZkZzF1NWZnbGh2d2gzY2tmNjY3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nG6PyNZPlKye0cicSd/giphy.gif)
 =======
