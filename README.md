@@ -1,4 +1,5 @@
 `Full Stack Enginner` · `2+ Years of Experience`
+
 🎓 Information Systems Undergraduate 4/8, passionate about gym, purpose, tech education.
 
 Full Stack Development • Cloud • Software Engineering  
