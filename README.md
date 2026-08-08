@@ -1,4 +1,4 @@
-`Full Stack Enginner` · `2+ Years of Experience`
+`Full Stack Development` · `2+ Years of Experience`
 
 🎓 Information Systems Undergraduate 4/8, passionate about gym, purpose, tech education.
 
