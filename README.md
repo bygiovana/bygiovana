@@ -1,82 +1,12 @@
-<h1 align="center">Olá, eu sou a Giovana 👋</h1>
 
-<p align="center">
-  Desenvolvedora web brasileira transformando ideias em experiências digitais.<br />
-  Aprendizado contínuo, projetos reais e deploys que viram evidência de evolução.
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/giovanatprecioso) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gio0rrc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giovanapc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@giio.dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dkwhoisprecioso) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giovanaprecioso2019@gmail.com) 
 
-<p align="center">
-  <a href="https://github.com/giovanax?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/giovanax?color=000000&label=FOLLOW&logo=github&logoColor=white&style=for-the-badge&labelColor=000000" alt="Seguidores no GitHub" />
-  </a>
-  <a href="https://github.com/giovanax?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/giovanax?color=000000&label=STARS&logo=star&logoColor=white&style=for-the-badge&labelColor=000000" alt="Estrelas no GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=giovanax&label=VISITORS&color=000000&style=for-the-badge" alt="Visitas ao perfil" />
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=plastic&logo=quarkus&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=plastic) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=plastic&logo=Perforce&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=plastic&logo=subversion&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=plastic&logo=dgraph&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bygiovana&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bygiovana&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bygiovana&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Sobre mim
-
-- 💻 Construo interfaces e aplicações web com foco em experiência e aprendizado prático.
-- 🧠 Transformo estudos em projetos, documentação e evidências de portfólio.
-- 🚀 Publico meus projetos na Vercel e acompanho os deployments neste perfil.
-- 🎯 Atualmente aprofundando conhecimentos em React, TypeScript e desenvolvimento front-end.
-
-## Tecnologias e ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,git,github,vercel,vscode&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind, Node.js, Git, GitHub, Vercel e VS Code" />
-</p>
-
-## Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/giovanax/crowser-tech-academy-os">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=giovanax&repo=crowser-tech-academy-os&theme=transparent&hide_border=true" alt="Crowser Tech Academy OS" />
-  </a>
-  <a href="https://github.com/giovanax/neurobloom">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=giovanax&repo=neurobloom&theme=transparent&hide_border=true" alt="NeuroBloom" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/giovanax/portifolio-developer-giovana">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=giovanax&repo=portifolio-developer-giovana&theme=transparent&hide_border=true" alt="Portfólio Developer Giovana" />
-  </a>
-  <a href="https://github.com/giovanax/blog">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=giovanax&repo=blog&theme=transparent&hide_border=true" alt="Blog" />
-  </a>
-</p>
-
-## GitHub em números
-
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=giovanax&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=giovanax&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="./assets/streak.svg" alt="Sequência de contribuições no GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giovanax&theme=darkhub&no-frame=true&no-bg=true&column=-1" alt="Troféus do GitHub" />
-</p>
-
-## 🚀 Últimos deployments na Vercel
-
-<!-- VERCEL_DEPLOYMENTS:START -->
-_O GitHub Actions preencherá esta seção depois que os secrets da Vercel forem configurados._
-<!-- VERCEL_DEPLOYMENTS:END -->
-
-<p align="center">
-  <a href="https://github.com/giovanax/giovanax/actions/workflows/update-profile.yml">
-    <img src="https://github.com/giovanax/giovanax/actions/workflows/update-profile.yml/badge.svg" alt="Atualização automática do perfil" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Feito com 🖤, Markdown e GitHub Actions.
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
