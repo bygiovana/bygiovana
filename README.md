@@ -1,9 +1,9 @@
-`Full Stack Development` · `2+ Years of Experience`
+`Software Engnineer` · `2+ Years of Experience`
 
 🎓 Information Systems Undergraduate 4/8, passionate about gym, purpose, tech education.
 
-• Full Stack Development • Cloud • Software Engineering  
-• JavaScript • TypeScript • React • Node.js • Python • Java • SQL • AWS
+• Software Engnineer • Cloud • Software Engineering  
+• JavaScript • TypeScript • React • Node.js • Python • Java • SQL 
 - Native Portuguese, Advanced English.
 
 
