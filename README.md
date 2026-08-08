@@ -6,7 +6,7 @@ JavaScript • TypeScript • React • Node.js • Python • Java • SQL • 
 - Native Portuguese, Advanced English.
 
 
-Reach me at: giovanaprecioso2019@amail.com
+Reach me at: giovanaprecioso2019@gmail.com
 
 ![gon](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ1eDlpbTZnejBoYmw1Y3d5MWxxZ3RoeXpscjdhaTJ5aXVmaHlmbyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8Bfu9V4SceZZS/giphy.gif)
 =======
