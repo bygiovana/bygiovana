@@ -58,7 +58,7 @@ You can explore my repositories below.
 
 #### Socials
 
-[![GITHUB](https://img.shields.io/badge/GiovanaGGP-000000?style=flat&logo=github&logoColor=white)](https://github.com/GiovanaGGP)
+[![GITHUB](https://img.shields.io/badge/GiovanaGGP-000000?style=flat&logo=github&logoColor=white)](https://github.com/bygiovana)
 [![GMAIL](https://img.shields.io/badge/giovanaprecioso2019%40gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:giovanaprecioso2019@gmail.com)
 
 ---
