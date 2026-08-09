@@ -45,12 +45,6 @@ You can explore my repositories below.
 
 [![REPOSITORIES](https://img.shields.io/badge/View%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanaGGP?tab=repositories)
 
-#### GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovanaGGP&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaGGP&layout=compact&theme=transparent&hide_border=true)
-
 #### Languages
 
 🇧🇷 Portuguese — Native  
