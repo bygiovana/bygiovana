@@ -41,17 +41,6 @@ I'm currently practicing algorithms and data structures through coding challenge
 
 [![LEETCODE](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
-#### Featured work
-
-Building projects focused on real-world software development, including:
-
-- Full Stack Applications
-- REST APIs
-- Backend Systems
-- CRUD Applications
-- Automation
-- Cloud-based Projects
-
 You can explore my repositories below.
 
 [![REPOSITORIES](https://img.shields.io/badge/View%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanaGGP?tab=repositories)
@@ -66,13 +55,6 @@ You can explore my repositories below.
 
 🇧🇷 Portuguese — Native  
 🇺🇸 English — Advanced
-
-#### Beyond code
-
-🏋️ Gym  
-♟️ Chess  
-💻 Technology  
-📚 Continuous learning
 
 #### Socials
 
